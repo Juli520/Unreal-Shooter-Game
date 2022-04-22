@@ -1171,3 +1171,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.22-23.35.37:894][  0]LogAssetRegistry: Asset discovery search completed in 30.3454 seconds
 [2022.04.22-23.35.37:900][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.04.22-23.35.37:947][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.22-23.37.07:428][988]Cmd: POLY SELECT MEMORY UNION
