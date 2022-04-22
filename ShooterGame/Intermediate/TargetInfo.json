@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShooterGame",
+			"Path": "C:\\Users\\juli\\Documents\\GitHub\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShooterGameEditor",
+			"Path": "C:\\Users\\juli\\Documents\\GitHub\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
