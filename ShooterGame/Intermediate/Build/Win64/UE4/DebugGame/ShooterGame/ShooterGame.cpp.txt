@@ -1,0 +1,2 @@
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4\DebugGame\ShooterGame\Definitions.ShooterGame.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGame.h
