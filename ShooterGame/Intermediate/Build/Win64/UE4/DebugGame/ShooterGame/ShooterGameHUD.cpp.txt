@@ -1,0 +1,17 @@
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4\DebugGame\ShooterGame\Definitions.ShooterGame.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGameHUD.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DebugTextInfo.generated.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\HUD.generated.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4\Inc\ShooterGame\ShooterGameHUD.generated.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\FontImportOptions.generated.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\FontProviderInterface.generated.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Font.generated.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Canvas.generated.h

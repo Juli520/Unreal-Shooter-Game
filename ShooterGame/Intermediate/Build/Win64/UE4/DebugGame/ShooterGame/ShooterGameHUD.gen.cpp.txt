@@ -1,0 +1,10 @@
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4\DebugGame\ShooterGame\Definitions.ShooterGame.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame/ShooterGameHUD.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DebugTextInfo.generated.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\HUD.generated.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4\Inc\ShooterGame\ShooterGameHUD.generated.h
