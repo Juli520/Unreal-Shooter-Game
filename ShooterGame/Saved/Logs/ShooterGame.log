@@ -2608,3 +2608,20 @@ Script Stack (0 frames):
 [2022.06.19-23.34.52:523][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2022.06.19-23.34.52:551][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
 [2022.06.19-23.34.52:571][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.19-23.35.25:586][292]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WBP_InGameUI.WBP_InGameUI
+[2022.06.19-23.35.37:195][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_InGameUI" FILE="../../../../../../Users/salch/Documents/GitHub/Unreal-Shooter-Game/ShooterGame/Content/Widgets/WBP_InGameUI.uasset" SILENT=true
+[2022.06.19-23.35.37:221][368]LogSavePackage: Moving '../../../../../../Users/salch/Documents/GitHub/Unreal-Shooter-Game/ShooterGame/Saved/WBP_InGameUI86A6370348DA2F206B49739DDA7EBCC1.tmp' to '../../../../../../Users/salch/Documents/GitHub/Unreal-Shooter-Game/ShooterGame/Content/Widgets/WBP_InGameUI.uasset'
+[2022.06.19-23.35.37:233][368]AssetCheck: New page: Asset Save: WBP_InGameUI
+[2022.06.19-23.35.37:233][368]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WBP_InGameUI.WBP_InGameUI
+[2022.06.19-23.35.37:963][437]BlueprintLog: New page: Compile WBP_InGameUI
+[2022.06.19-23.35.38:020][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.06.19-23.35.38:833][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_InGameUI" FILE="../../../../../../Users/salch/Documents/GitHub/Unreal-Shooter-Game/ShooterGame/Content/Widgets/WBP_InGameUI.uasset" SILENT=true
+[2022.06.19-23.35.38:858][505]LogSavePackage: Moving '../../../../../../Users/salch/Documents/GitHub/Unreal-Shooter-Game/ShooterGame/Saved/WBP_InGameUI50BA8D444C87F86467054DADDD790B10.tmp' to '../../../../../../Users/salch/Documents/GitHub/Unreal-Shooter-Game/ShooterGame/Content/Widgets/WBP_InGameUI.uasset'
+[2022.06.19-23.35.38:870][505]AssetCheck: New page: Asset Save: WBP_InGameUI
+[2022.06.19-23.35.38:871][505]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WBP_InGameUI.WBP_InGameUI
+[2022.06.19-23.35.41:876][790]LogSlate: Window 'WBP_InGameUI' being destroyed
+[2022.06.19-23.35.41:880][790]LogSlate: Window 'WBP_InGameUI' being destroyed
+[2022.06.19-23.35.41:909][790]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.35.41:909][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.35.41:915][790]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.35.41:915][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
