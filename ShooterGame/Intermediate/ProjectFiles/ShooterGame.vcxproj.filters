@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ShooterGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C092DAE8-0771-4134-81DC-FC7D37E75CA9}</UniqueIdentifier>
+      <UniqueIdentifier>{0E0D4618-9A4F-465C-8AB6-288BDF72DF84}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShooterGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5792EFAC-73C2-4069-8FE6-C5EA52300673}</UniqueIdentifier>
+      <UniqueIdentifier>{13AEDB2C-A8F4-4085-AC2F-D0FD465F1DB9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ShooterGame">
-      <UniqueIdentifier>{0D5F81E5-D781-48CC-BF97-FC8DB381F7B7}</UniqueIdentifier>
+      <UniqueIdentifier>{BC0029B2-7A42-48AE-9E6F-ABB0CDC801AF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShooterGame\ShooterGame.Build.cs">
       <Filter>Source\ShooterGame</Filter>
@@ -64,6 +64,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\ShooterGame\ShooterGameProjectile.h">
       <Filter>Source\ShooterGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShooterGame\Private">
+      <UniqueIdentifier>{0AA0599F-75C7-4F73-9C70-3A5204CB20B1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShooterGame\Private\InGameUI.cpp">
+      <Filter>Source\ShooterGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ShooterGame\Public">
+      <UniqueIdentifier>{6B2D0EC4-18C4-4DF7-83E6-84567FBD9DA9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ShooterGame\Public\InGameUI.h">
+      <Filter>Source\ShooterGame\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
