@@ -1717,3 +1717,164 @@ Script call stack:
 [2022.07.02-23.49.43:922][274]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.07.02-23.49.43:923][274]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2022.07.02-23.49.43:923][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.02-23.50.24:133][288]LogSavePackage: Moving '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Saved/BP_FastEnemyTargetEE89D551458C89430DDF488FB89DD5FA.tmp' to '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Content/ParcialBluePrint/Actors/BP_FastEnemyTarget.uasset'
+[2022.07.02-23.50.24:146][288]AssetCheck: New page: Asset Save: BP_FastEnemyTarget
+[2022.07.02-23.50.24:146][288]LogContentValidation: Display: Validating Blueprint /Game/ParcialBluePrint/Actors/BP_FastEnemyTarget.BP_FastEnemyTarget
+[2022.07.02-23.50.24:973][368]LogSavePackage: Moving '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Saved/BP_SlowEnemyTarget6D60B03247CDBD081859DFA33668C67B.tmp' to '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Content/ParcialBluePrint/Actors/BP_SlowEnemyTarget.uasset'
+[2022.07.02-23.50.24:984][368]AssetCheck: New page: Asset Save: BP_SlowEnemyTarget
+[2022.07.02-23.50.24:985][368]LogContentValidation: Display: Validating Blueprint /Game/ParcialBluePrint/Actors/BP_SlowEnemyTarget.BP_SlowEnemyTarget
+[2022.07.02-23.50.25:754][440]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.02-23.50.25:759][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.02-23.50.25:759][440]PIE: New page: PIE session: FirstPersonExampleMap (Jul 2, 2022, 5:50:25 PM)
+[2022.07.02-23.50.25:786][440]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.02-23.50.25:795][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008349s)
+[2022.07.02-23.50.25:796][440]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.02-23.50.25:796][440]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2022.07.02-23.50.25:796][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009622s)
+[2022.07.02-23.50.25:845][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.07.02-23.50.25:852][440]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.02-23.50.25:853][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.02-23.50.25:853][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.02-23.50.25:853][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.02-23.50.25:853][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.02-23.50.25:853][440]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.02-23.50.25:856][440]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.02-23.50.25:857][440]LogAudioMixer: Display: 1: FrontRight
+[2022.07.02-23.50.25:857][440]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.02-23.50.25:857][440]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.02-23.50.25:857][440]LogAudioMixer: Display: 4: BackLeft
+[2022.07.02-23.50.25:857][440]LogAudioMixer: Display: 5: BackRight
+[2022.07.02-23.50.25:857][440]LogAudioMixer: Display: 6: SideLeft
+[2022.07.02-23.50.25:857][440]LogAudioMixer: Display: 7: SideRight
+[2022.07.02-23.50.25:866][440]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G733 Gaming Headset)
+[2022.07.02-23.50.25:866][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.02-23.50.25:866][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.02-23.50.25:866][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.02-23.50.25:867][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.02-23.50.25:867][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.02-23.50.25:867][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.02-23.50.25:867][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.02-23.50.25:867][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.02-23.50.25:867][440]LogInit: FAudioDevice initialized.
+[2022.07.02-23.50.25:867][440]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2022.07.02-23.50.25:878][440]LogLoad: Game class is 'BP_GM_C'
+[2022.07.02-23.50.25:879][440]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.02-20.50.25
+[2022.07.02-23.50.25:879][440]LogWorld: Bringing up level for play took: 0.000697
+[2022.07.02-23.50.25:879][440]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.07.02-23.50.25:880][440]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.02-23.50.25:880][440]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.02-23.50.25:880][440]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.02-23.50.25:882][440]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.02-23.50.25:882][440]PIE: Server logged in
+[2022.07.02-23.50.25:882][440]PIE: Play in editor total start time 0.125 seconds.
+[2022.07.02-23.50.30:294][890]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 848
+[2022.07.02-23.50.30:294][890]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ParcialBluePrint/Actors/BP_FastEnemyTarget.BP_FastEnemyTarget_C:ReceiveAnyDamage
+	Function /Game/ParcialBluePrint/Actors/BP_FastEnemyTarget.BP_FastEnemyTarget_C:ExecuteUbergraph_BP_FastEnemyTarget
+
+[2022.07.02-23.50.39:372][890]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2022.07.02-23.50.43:970][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.02-23.50.43:970][207]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.02-23.50.43:970][207]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.02-23.50.43:970][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.02-23.50.43:978][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.02-23.50.43:983][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.02-23.50.44:002][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.02-23.50.44:002][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.02-23.50.44:003][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.02-23.50.44:005][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.02-23.50.44:033][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.07.02-23.50.44:054][208]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.07.02-23.50.59:377][738]LogSavePackage: Moving '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Saved/BP_FastEnemyTargetE39C5F994F772F36259D18995615C81C.tmp' to '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Content/ParcialBluePrint/Actors/BP_FastEnemyTarget.uasset'
+[2022.07.02-23.50.59:389][738]AssetCheck: New page: Asset Save: BP_FastEnemyTarget
+[2022.07.02-23.50.59:389][738]LogContentValidation: Display: Validating Blueprint /Game/ParcialBluePrint/Actors/BP_FastEnemyTarget.BP_FastEnemyTarget
+[2022.07.02-23.50.59:649][764]BlueprintLog: New page: Compile BP_FastEnemyTarget
+[2022.07.02-23.50.59:691][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.07.02-23.51.00:692][857]BlueprintLog: New page: Compile BP_SlowEnemyTarget
+[2022.07.02-23.51.00:732][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.07.02-23.51.01:074][883]LogSavePackage: Moving '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Saved/BP_SlowEnemyTarget49EEC4B74A2947A7EC033D922B1FB2CA.tmp' to '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Content/ParcialBluePrint/Actors/BP_SlowEnemyTarget.uasset'
+[2022.07.02-23.51.01:084][883]AssetCheck: New page: Asset Save: BP_SlowEnemyTarget
+[2022.07.02-23.51.01:084][883]LogContentValidation: Display: Validating Blueprint /Game/ParcialBluePrint/Actors/BP_SlowEnemyTarget.BP_SlowEnemyTarget
+[2022.07.02-23.51.02:883][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.02-23.51.02:888][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.02-23.51.02:888][ 49]PIE: New page: PIE session: FirstPersonExampleMap (Jul 2, 2022, 5:51:02 PM)
+[2022.07.02-23.51.02:888][ 49]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.02-23.51.02:897][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008469s)
+[2022.07.02-23.51.02:897][ 49]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.02-23.51.02:898][ 49]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2022.07.02-23.51.02:898][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009752s)
+[2022.07.02-23.51.02:925][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.02-23.51.02:926][ 49]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.02-23.51.02:927][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.02-23.51.02:927][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.02-23.51.02:927][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.02-23.51.02:927][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.02-23.51.02:927][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 1: FrontRight
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 4: BackLeft
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 5: BackRight
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 6: SideLeft
+[2022.07.02-23.51.02:931][ 49]LogAudioMixer: Display: 7: SideRight
+[2022.07.02-23.51.02:941][ 49]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G733 Gaming Headset)
+[2022.07.02-23.51.02:941][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.02-23.51.02:941][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.02-23.51.02:941][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.02-23.51.02:942][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.02-23.51.02:942][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.02-23.51.02:942][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.02-23.51.02:942][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.02-23.51.02:942][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.02-23.51.02:942][ 49]LogInit: FAudioDevice initialized.
+[2022.07.02-23.51.02:942][ 49]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2022.07.02-23.51.02:947][ 49]LogLoad: Game class is 'BP_GM_C'
+[2022.07.02-23.51.02:948][ 49]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.02-20.51.02
+[2022.07.02-23.51.02:948][ 49]LogWorld: Bringing up level for play took: 0.000637
+[2022.07.02-23.51.02:948][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.07.02-23.51.02:949][ 49]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.02-23.51.02:949][ 49]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.02-23.51.02:949][ 49]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.02-23.51.02:951][ 49]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.02-23.51.02:951][ 49]PIE: Server logged in
+[2022.07.02-23.51.02:951][ 49]PIE: Play in editor total start time 0.064 seconds.
+[2022.07.02-23.51.07:962][571]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 848
+[2022.07.02-23.51.07:962][571]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ParcialBluePrint/Actors/BP_FastEnemyTarget.BP_FastEnemyTarget_C:ReceiveAnyDamage
+	Function /Game/ParcialBluePrint/Actors/BP_FastEnemyTarget.BP_FastEnemyTarget_C:ExecuteUbergraph_BP_FastEnemyTarget
+
+[2022.07.02-23.51.16:983][  6]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 502
+[2022.07.02-23.51.16:983][  6]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ParcialBluePrint/Actors/BP_SlowEnemyTarget.BP_SlowEnemyTarget_C:ReceiveAnyDamage
+	Function /Game/ParcialBluePrint/Actors/BP_SlowEnemyTarget.BP_SlowEnemyTarget_C:ExecuteUbergraph_BP_SlowEnemyTarget
+
+[2022.07.02-23.51.26:564][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.02-23.51.26:564][267]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.02-23.51.26:564][267]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.02-23.51.26:565][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.02-23.51.26:572][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.02-23.51.26:576][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.02-23.51.26:596][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.02-23.51.26:596][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.02-23.51.26:597][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.02-23.51.26:599][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.02-23.51.26:602][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.07.02-23.51.26:654][269]LogPlayLevel: Display: Destroying online subsystem :Context_31
