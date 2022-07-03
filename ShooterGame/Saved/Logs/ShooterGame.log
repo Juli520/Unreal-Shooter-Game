@@ -1167,3 +1167,9 @@ Make sure 'BTTask_ChooseNewDestination_C' has been compiled for  Get  Destinatio
 [2022.07.03-20.32.21:174][120]LogSavePackage: Moving '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Saved/FirstPersonExampleMap44448EA7466A1C65F239AE93680D096A.tmp' to '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
 [2022.07.03-20.32.21:193][120]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.07.03-20.32.21:193][120]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.07.03-20.32.50:454][875]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ParcialBluePrint/Actors/BP_EnemyBullet.BP_EnemyBullet
+[2022.07.03-20.32.52:726][ 27]LogRenderer: Reallocating scene render targets to support 1352x712 Format 10 NumSamples 1 (Frame:1).
+[2022.07.03-20.32.59:753][695]LogSlate: Window 'BP_EnemyBullet' being destroyed
+[2022.07.03-20.32.59:757][695]LogSlate: Window 'BP_EnemyBullet' being destroyed
+[2022.07.03-20.32.59:760][695]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.03-20.32.59:760][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
