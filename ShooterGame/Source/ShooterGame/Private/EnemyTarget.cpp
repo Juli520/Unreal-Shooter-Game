@@ -11,6 +11,9 @@ AEnemyTarget::AEnemyTarget()
 
 	TargetMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("TargetMeshComponent"));
 	TargetMesh -> SetupAttachment(GetRootComponent());
+	
+	SkeletalMesh = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("SkeletalMeshComponent"));
+	SkeletalMesh -> SetupAttachment(GetRootComponent());
 }
 
 // Called when the game starts or when spawned
