@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ShooterGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FAFC229F-9390-40C5-8532-39603E00ED84}</UniqueIdentifier>
+      <UniqueIdentifier>{57CEDD7D-9267-4044-A8CA-3B9AAB819DA1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShooterGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{6662AA52-4CBA-423D-A2A4-26AB8B6369E3}</UniqueIdentifier>
+      <UniqueIdentifier>{B35F8D9E-0D6D-4AE6-9CAB-8D610253A1EC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ShooterGame">
-      <UniqueIdentifier>{5204E7B5-3389-4EFA-BF7E-F0A0A95CACE9}</UniqueIdentifier>
+      <UniqueIdentifier>{A85B6150-F825-456B-BEA3-870A14531F3A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShooterGame\ShooterGame.Build.cs">
       <Filter>Source\ShooterGame</Filter>
@@ -66,7 +66,7 @@
       <Filter>Source\ShooterGame</Filter>
     </ClInclude>
     <Filter Include="Source\ShooterGame\Private">
-      <UniqueIdentifier>{6C47CB9D-6887-4163-BA87-733874AE110A}</UniqueIdentifier>
+      <UniqueIdentifier>{01E0B6EA-048C-4C87-B97F-28EA172DB220}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ShooterGame\Private\EnemyTarget.cpp">
       <Filter>Source\ShooterGame\Private</Filter>
@@ -74,13 +74,19 @@
     <ClCompile Include="..\..\Source\ShooterGame\Private\GenericInteraction.cpp">
       <Filter>Source\ShooterGame\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ShooterGame\Private\TargetSpawner.cpp">
+      <Filter>Source\ShooterGame\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\ShooterGame\Public">
-      <UniqueIdentifier>{6D35286D-D91E-45A3-A71C-E641A3AB5198}</UniqueIdentifier>
+      <UniqueIdentifier>{3A39625F-C63E-462A-85D6-3B17D6967963}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\ShooterGame\Public\EnemyTarget.h">
       <Filter>Source\ShooterGame\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ShooterGame\Public\GenericInteraction.h">
+      <Filter>Source\ShooterGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShooterGame\Public\TargetSpawner.h">
       <Filter>Source\ShooterGame\Public</Filter>
     </ClInclude>
   </ItemGroup>
