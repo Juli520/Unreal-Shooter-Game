@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ShooterGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FAD7676C-7406-4625-822B-A3ED553D6539}</UniqueIdentifier>
+      <UniqueIdentifier>{FAFC229F-9390-40C5-8532-39603E00ED84}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShooterGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{89576F1F-7E32-48C0-AE42-7B3606C0B8B9}</UniqueIdentifier>
+      <UniqueIdentifier>{6662AA52-4CBA-423D-A2A4-26AB8B6369E3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ShooterGame">
-      <UniqueIdentifier>{E575202B-B18F-41C0-B7E3-8487CB8343A5}</UniqueIdentifier>
+      <UniqueIdentifier>{5204E7B5-3389-4EFA-BF7E-F0A0A95CACE9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShooterGame\ShooterGame.Build.cs">
       <Filter>Source\ShooterGame</Filter>
@@ -66,15 +66,21 @@
       <Filter>Source\ShooterGame</Filter>
     </ClInclude>
     <Filter Include="Source\ShooterGame\Private">
-      <UniqueIdentifier>{5F3A04EE-F475-48C9-AF62-573BFC9B43B8}</UniqueIdentifier>
+      <UniqueIdentifier>{6C47CB9D-6887-4163-BA87-733874AE110A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ShooterGame\Private\EnemyTarget.cpp">
       <Filter>Source\ShooterGame\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ShooterGame\Private\GenericInteraction.cpp">
+      <Filter>Source\ShooterGame\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\ShooterGame\Public">
-      <UniqueIdentifier>{BA720866-71A8-4B5C-95DF-C252F4612C1E}</UniqueIdentifier>
+      <UniqueIdentifier>{6D35286D-D91E-45A3-A71C-E641A3AB5198}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\ShooterGame\Public\EnemyTarget.h">
+      <Filter>Source\ShooterGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShooterGame\Public\GenericInteraction.h">
       <Filter>Source\ShooterGame\Public</Filter>
     </ClInclude>
   </ItemGroup>
