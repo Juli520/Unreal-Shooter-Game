@@ -18,6 +18,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyTarget() {}
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_ShooterGame();
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_USkeletalMeshComponent_NoRegister();
 // End Cross Module References
 	void AEnemyTarget::StaticRegisterNativesAEnemyTarget()
 	{
@@ -40,6 +41,10 @@ void EmptyLinkFunctionForGeneratedCodeEnemyTarget() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TargetMesh_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_TargetMesh;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_SkeletalMesh_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_SkeletalMesh;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -70,9 +75,18 @@ void EmptyLinkFunctionForGeneratedCodeEnemyTarget() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemyTarget_Statics::NewProp_TargetMesh = { "TargetMesh", nullptr, (EPropertyFlags)0x001000000009000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEnemyTarget, TargetMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AEnemyTarget_Statics::NewProp_TargetMesh_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEnemyTarget_Statics::NewProp_TargetMesh_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEnemyTarget_Statics::NewProp_SkeletalMesh_MetaData[] = {
+		{ "Category", "Component" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "Public/EnemyTarget.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemyTarget_Statics::NewProp_SkeletalMesh = { "SkeletalMesh", nullptr, (EPropertyFlags)0x001000000009000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AEnemyTarget, SkeletalMesh), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AEnemyTarget_Statics::NewProp_SkeletalMesh_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AEnemyTarget_Statics::NewProp_SkeletalMesh_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEnemyTarget_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemyTarget_Statics::NewProp_Health,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemyTarget_Statics::NewProp_TargetMesh,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemyTarget_Statics::NewProp_SkeletalMesh,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AEnemyTarget_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AEnemyTarget>::IsAbstract,
@@ -101,7 +115,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemyTarget() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEnemyTarget, 4210942755);
+	IMPLEMENT_CLASS(AEnemyTarget, 1279109475);
 	template<> SHOOTERGAME_API UClass* StaticClass<AEnemyTarget>()
 	{
 		return AEnemyTarget::StaticClass();
