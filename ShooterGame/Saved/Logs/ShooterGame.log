@@ -1022,3 +1022,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.04-16.37.24:469][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.07.04-16.37.24:496][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
 [2022.07.04-16.37.24:512][351]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.07.04-16.53.29:563][854]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2022.07.04-16.53.29:593][854]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2022.07.04-16.53.29:609][854]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-16.53.29:609][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-16.53.29:620][854]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-16.53.29:620][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-16.53.34:797][442]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WBP_Controls.WBP_Controls
+[2022.07.04-16.54.35:869][682]LogEditorTransaction: Undo Resize Widget
+[2022.07.04-16.55.32:198][312]BlueprintLog: New page: Compile WBP_Controls
+[2022.07.04-16.55.32:254][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.07.04-16.55.33:165][408]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.04-16.55.33:170][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-16.55.33:170][408]PIE: New page: PIE session: MAP_MainMenu (Jul 4, 2022, 10:55:33 AM)
+[2022.07.04-16.55.33:216][408]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MAP_MainMenu
+[2022.07.04-16.55.33:217][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001127s)
+[2022.07.04-16.55.33:218][408]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2022.07.04-16.55.33:218][408]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2022.07.04-16.55.33:218][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MAP_MainMenu.MAP_MainMenu to /Game/Levels/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.002239s)
+[2022.07.04-16.55.33:253][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.07.04-16.55.33:254][408]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-16.55.33:254][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-16.55.33:254][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-16.55.33:254][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-16.55.33:254][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-16.55.33:254][408]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 4: BackLeft
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 5: BackRight
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 6: SideLeft
+[2022.07.04-16.55.33:259][408]LogAudioMixer: Display: 7: SideRight
+[2022.07.04-16.55.33:268][408]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G733 Gaming Headset)
+[2022.07.04-16.55.33:268][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-16.55.33:268][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-16.55.33:268][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-16.55.33:269][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.04-16.55.33:269][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.04-16.55.33:269][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.04-16.55.33:270][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.04-16.55.33:270][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.04-16.55.33:270][408]LogInit: FAudioDevice initialized.
+[2022.07.04-16.55.33:270][408]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_MainMenu'.
+[2022.07.04-16.55.33:282][408]LogLoad: Game class is 'BP_GM_C'
+[2022.07.04-16.55.33:283][408]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2022.07.04-13.55.33
+[2022.07.04-16.55.33:283][408]LogWorld: Bringing up level for play took: 0.000349
+[2022.07.04-16.55.33:283][408]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.07.04-16.55.33:285][408]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-16.55.33:285][408]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-16.55.33:285][408]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-16.55.33:286][408]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.04-16.55.33:286][408]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.07.04-16.55.33:286][408]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-16.55.33:286][408]PIE: Server logged in
+[2022.07.04-16.55.33:287][408]PIE: Play in editor total start time 0.118 seconds.
+[2022.07.04-16.55.39:548][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-16.55.39:548][135]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MAP_MainMenu
+[2022.07.04-16.55.39:548][135]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-16.55.39:548][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-16.55.39:554][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-16.55.39:558][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-16.55.39:571][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.04-16.55.39:571][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-16.55.39:572][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-16.55.39:574][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-16.55.39:577][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.07.04-16.55.39:605][138]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.07.04-16.55.43:581][372]LogSlate: Window 'WBP_Controls' being destroyed
+[2022.07.04-16.55.43:586][372]LogSlate: Window 'WBP_Controls' being destroyed
+[2022.07.04-16.55.43:588][372]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-16.55.43:588][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-16.55.43:594][372]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-16.55.43:594][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-16.56.08:847][432]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WBP_Controls.WBP_Controls
+[2022.07.04-16.56.10:281][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WBP_Controls" FILE="../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Content/Widgets/WBP_Controls.uasset" SILENT=true
+[2022.07.04-16.56.10:286][543]LogSavePackage: Moving '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Saved/WBP_Controls0CD3FE774864272DE63D7A8364907572.tmp' to '../../../../PROJECTS/Unreal Projects/Unreal Repos/Unreal-Shooter-Game/ShooterGame/Content/Widgets/WBP_Controls.uasset'
+[2022.07.04-16.56.10:297][543]AssetCheck: New page: Asset Save: WBP_Controls
+[2022.07.04-16.56.10:297][543]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WBP_Controls.WBP_Controls
+[2022.07.04-16.56.11:038][628]LogSlate: Window 'WBP_Controls' being destroyed
+[2022.07.04-16.56.11:042][628]LogSlate: Window 'WBP_Controls' being destroyed
+[2022.07.04-16.56.11:045][628]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-16.56.11:045][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-16.56.11:050][628]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-16.56.11:050][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
