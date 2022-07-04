@@ -6,6 +6,25 @@
 /NAME:"UE4Editor-ShooterGame.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\EnemyTarget.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\GenericInteraction.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGame.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameCharacter.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameGameMode.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameHUD.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameProjectile.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\EnemyTarget.gen.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\GenericInteraction.gen.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGame.init.gen.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameCharacter.gen.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameGameMode.gen.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameHUD.gen.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\ShooterGameProjectile.gen.cpp.obj"
+"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Default.rc2.res"
+/OUT:"C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\UE4Editor-ShooterGame.lib"
+=======
 "S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\EnemyTarget.cpp.obj"
 "S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\GenericInteraction.cpp.obj"
@@ -25,3 +44,4 @@
 "S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\TargetSpawner.gen.cpp.obj"
 "S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Default.rc2.res"
 /OUT:"S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\UE4Editor-ShooterGame.lib"
+>>>>>>> main

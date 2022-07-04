@@ -21,6 +21,9 @@ public:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Component")
 	UStaticMeshComponent* TargetMesh;
 
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Component")
+	USkeletalMeshComponent* SkeletalMesh;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

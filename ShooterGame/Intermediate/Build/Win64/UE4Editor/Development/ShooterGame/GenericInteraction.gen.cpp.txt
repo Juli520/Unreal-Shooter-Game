@@ -1,11 +1,11 @@
-S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
-S:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-S:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame/Public/GenericInteraction.h
-S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
-S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
-S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
-S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
-S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\GenericInteraction.generated.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame/Public/GenericInteraction.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\GenericInteraction.generated.h
