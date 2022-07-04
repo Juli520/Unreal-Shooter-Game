@@ -1,11 +1,11 @@
-C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
-C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGameProjectile.h
-C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameProjectile.generated.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
-J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
-J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGameProjectile.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameProjectile.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
