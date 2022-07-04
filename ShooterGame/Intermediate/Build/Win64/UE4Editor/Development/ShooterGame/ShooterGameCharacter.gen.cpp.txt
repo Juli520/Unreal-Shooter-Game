@@ -1,11 +1,11 @@
-C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame/ShooterGameCharacter.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
-J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
-J:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-J:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\juli\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameCharacter.generated.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
+S:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+S:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame/ShooterGameCharacter.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameCharacter.generated.h

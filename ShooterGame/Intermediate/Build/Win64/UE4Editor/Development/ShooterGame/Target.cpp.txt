@@ -1,0 +1,8 @@
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\Public\Target.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\Public\TargetEnumerator.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\Target.generated.h
