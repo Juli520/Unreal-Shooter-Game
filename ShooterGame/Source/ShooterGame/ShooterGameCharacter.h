@@ -54,6 +54,9 @@ class AShooterGameCharacter : public ACharacter
 public:
 	AShooterGameCharacter();
 
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Variable")
+	float Health;
+
 protected:
 	virtual void BeginPlay();
 
