@@ -76,6 +76,7 @@ public: \
 
 #define ShooterGame_Source_ShooterGame_ShooterGameProjectile_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__CollisionComp() { return STRUCT_OFFSET(AShooterGameProjectile, CollisionComp); } \
+	FORCEINLINE static uint32 __PPO__TargetMesh() { return STRUCT_OFFSET(AShooterGameProjectile, TargetMesh); } \
 	FORCEINLINE static uint32 __PPO__ProjectileMovement() { return STRUCT_OFFSET(AShooterGameProjectile, ProjectileMovement); }
 
 

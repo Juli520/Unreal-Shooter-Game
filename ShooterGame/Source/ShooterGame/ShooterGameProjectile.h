@@ -18,6 +18,9 @@ class AShooterGameProjectile : public AActor
 	UPROPERTY(VisibleDefaultsOnly, Category=Projectile)
 	USphereComponent* CollisionComp;
 
+	UPROPERTY(EditDefaultsOnly, Category = "Component")
+	UStaticMeshComponent* TargetMesh;
+	
 	/** Projectile movement component */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
 	UProjectileMovementComponent* ProjectileMovement;

@@ -27,6 +27,9 @@ AShooterGameProjectile::AShooterGameProjectile()
 	ProjectileMovement->bRotationFollowsVelocity = true;
 	ProjectileMovement->bShouldBounce = true;
 
+	TargetMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("TargetMeshComponent"));
+	TargetMesh -> SetupAttachment(GetRootComponent());
+
 	// Die after 3 seconds by default
 	InitialLifeSpan = 3.0f;
 }

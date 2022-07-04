@@ -22,6 +22,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterGameProjectile() {}
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 	ENGINE_API UClass* Z_Construct_UClass_USphereComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UProjectileMovementComponent_NoRegister();
 // End Cross Module References
 	DEFINE_FUNCTION(AShooterGameProjectile::execOnHit)
@@ -134,6 +135,10 @@ void EmptyLinkFunctionForGeneratedCodeShooterGameProjectile() {}
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_CollisionComp;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TargetMesh_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_TargetMesh;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ProjectileMovement_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_ProjectileMovement;
@@ -165,6 +170,14 @@ void EmptyLinkFunctionForGeneratedCodeShooterGameProjectile() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_CollisionComp = { "CollisionComp", nullptr, (EPropertyFlags)0x00400000000b0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShooterGameProjectile, CollisionComp), Z_Construct_UClass_USphereComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_CollisionComp_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_CollisionComp_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_TargetMesh_MetaData[] = {
+		{ "Category", "Component" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "ShooterGameProjectile.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_TargetMesh = { "TargetMesh", nullptr, (EPropertyFlags)0x0040000000090009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShooterGameProjectile, TargetMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_TargetMesh_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_TargetMesh_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_ProjectileMovement_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Movement" },
@@ -177,6 +190,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterGameProjectile() {}
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_ProjectileMovement = { "ProjectileMovement", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShooterGameProjectile, ProjectileMovement), Z_Construct_UClass_UProjectileMovementComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_ProjectileMovement_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_ProjectileMovement_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AShooterGameProjectile_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_CollisionComp,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_TargetMesh,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterGameProjectile_Statics::NewProp_ProjectileMovement,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AShooterGameProjectile_Statics::StaticCppClassTypeInfo = {
@@ -206,7 +220,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterGameProjectile() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AShooterGameProjectile, 4250682274);
+	IMPLEMENT_CLASS(AShooterGameProjectile, 263398514);
 	template<> SHOOTERGAME_API UClass* StaticClass<AShooterGameProjectile>()
 	{
 		return AShooterGameProjectile::StaticClass();
