@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\salch\\Documents\\GitHub\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
-		"C:\\Users\\salch\\Documents\\GitHub\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGame.Target.cs",
-		"C:\\Users\\salch\\Documents\\GitHub\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGameEditor.Target.cs"
+		"S:\\PROJECTS\\Unreal Projects\\Unreal Repos\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
+		"S:\\PROJECTS\\Unreal Projects\\Unreal Repos\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGame.Target.cs",
+		"S:\\PROJECTS\\Unreal Projects\\Unreal Repos\\Unreal-Shooter-Game\\ShooterGame\\Source\\ShooterGameEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

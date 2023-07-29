@@ -4,8 +4,152 @@
     <projectFile>Intermediate/ProjectFiles/ShooterGame.vcxproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="533a09aa-411e-47a5-8a1e-e614cc70320b" name="Changes" comment="" />
+    <list default="true" id="533a09aa-411e-47a5-8a1e-e614cc70320b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShooterGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShooterGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/ShooterGameEditor.target" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/ShooterGameEditor.target" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonCPP/Blueprints/FirstPersonProjectile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonCPP/Blueprints/FirstPersonProjectile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ShooterGameModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ShooterGameModuleRules.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ShooterGameModuleRulesManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ShooterGameModuleRulesManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/DependencyCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Makefile.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Metadata-HotReload.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Metadata-HotReload.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Metadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/Metadata.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/ShooterGameEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/ShooterGameEditor.uhtmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/ShooterGameEditor.uhtpath" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ShooterGameEditor/Development/ShooterGameEditor.uhtpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/EnemyTarget.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/GenericInteraction.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.init.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.init.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.init.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.init.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.init.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGame.init.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameCharacter.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameGameMode.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameHUD.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/ShooterGameProjectile.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/Target.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetEnumerator.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.gen.cpp.obj.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.gen.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/TargetSpawner.gen.cpp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.dll.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.dll.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.lib.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ShooterGame/UE4Editor-ShooterGame.lib.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/ShooterGame/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/ShooterGame/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-0F79384A41EEEF8099A2C79A30CB5DCF/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-16C10C1546679A3E7753BD9EFCA00296/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-18F1838A44BBAC1FF60DBBA6693011B3/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-2BA826434616AFD038FB3B9F5C1945BC/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-3776021F402C9482E232D0B2D98527D1/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-3F0F9D634CD10ACA261511AB70785C8E/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-3F80A51D409F4FCFACD1CA810672BF39/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-46E3AEDA4B55CD9CF9D8E2BB6AEDC2A7/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-4BC0CEAF411704982EB06780973BAACB/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-553FEFA445F4A15FB011F48AEBEEDEAB/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-55E077D14E46954075D58D9FAEDE2AAD/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-5EF589FB44D454203B73DBA661602AB0/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-65643F814973B97CE32BC58EF4D4E7D4/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-6D7C2B98415D3FB4A2481CBD656F9F8B/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-70B838E9463E4646849ED7A097319523/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-73935514403C534CC5F6FFB670A48029/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-798690E54E9B86AF0D171E8C56D08CA9/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-79D42DA34700399E3E0D6081C55BB241/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-7DB55597437324C89DAF64BB55261835/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-94E98B9C4CE95851082176A9245AD325/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-9B2B043F4CB02E9CA54E9FBD9618EF1A/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-A624E3C943DAC599618A70824D42EB66/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-B1B200AF43846EBDDD1A8AACE4A59FF3/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-BD685DA447A40F71B7958EA0C56183A7/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-CCDACC2E45B0F5AD0FB38DACD4492444/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-CD03A4FA4ED8638009FD35A004C251DD/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-D8BEA3404F54CBC99E495EB2B8686EF8/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-D9BA17524B64E118AD022FA64867FAE3/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-DF780AC64EE8C5144B3448BC73F960D5/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-E1F9E0CE4A78A79F803BB49447B061B3/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-E8C65DB84934E1619E1219B36EDCE73B/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-F3A7049546B901C2EBC15FAE80677AF8/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-FC99903F4D6FCCD27F8D36862EB3CCD2/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/412261283.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WorldState/412261283.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-18.32.56.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-18.42.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-19.01.43.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-19.09.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-19.13.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-19.22.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-19.26.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-19.32.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-19.42.00.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame-backup-2022.07.04-21.54.39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ShooterGame.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/ShooterGame.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +180,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\fedeb\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\fedeb\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\fedeb\\AppData\\Local\\Symbols\\src&quot;
+    ]
   }
 }</component>
   <component name="RunManager" selected="C++ Project.ShooterGame">
@@ -265,6 +420,9 @@
       <workItem from="1656897613131" duration="2163000" />
       <workItem from="1656958987334" duration="1123000" />
       <workItem from="1656961702933" duration="1960000" />
+      <workItem from="1690665815415" duration="1071000" />
+      <workItem from="1690668530368" duration="198000" />
+      <workItem from="1690668749947" duration="23000" />
     </task>
     <servers />
   </component>

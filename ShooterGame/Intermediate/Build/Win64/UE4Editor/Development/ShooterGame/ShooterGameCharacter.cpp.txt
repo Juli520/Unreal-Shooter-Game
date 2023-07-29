@@ -1,48 +1,48 @@
-C:\Users\salch\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
-C:\Users\salch\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGameCharacter.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\salch\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameCharacter.generated.h
-C:\Users\salch\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGameProjectile.h
-C:\Users\salch\Documents\GitHub\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameProjectile.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneViewExtensionContext.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGameCharacter.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameCharacter.generated.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Source\ShooterGame\ShooterGameProjectile.h
+S:\PROJECTS\Unreal Projects\Unreal Repos\Unreal-Shooter-Game\ShooterGame\Intermediate\Build\Win64\UE4Editor\Inc\ShooterGame\ShooterGameProjectile.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+S:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+S:\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneViewExtensionContext.generated.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+S:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+S:\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
